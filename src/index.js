@@ -141,7 +141,7 @@ async function main() {
   const payments = await getAllPayments();
   // console.log("payments:", payments)
   const topCustomers = await analyzeTopCustomers(customers, payments);
-  console.log('Top 100 Customers Analysis:', topCustomers);
+  // console.log('Top 100 Customers Analysis:', topCustomers);
   const commonalities = {};
   topCustomers.forEach(({ category, customer, totalSpent }) => {
     if (commonalities[category]) {
