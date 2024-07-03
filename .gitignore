@@ -1,0 +1,6 @@
+*.env
+customers.json
+payments.json
+.parcel-cache
+dist
+node_modules
