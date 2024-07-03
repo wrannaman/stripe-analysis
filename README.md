@@ -1,4 +1,4 @@
-# Auto analyze and categorize your top customers on Sripe
+# Use AI to analyze and categorize your top customers on Sripe
 
 ## Getting started 
 
