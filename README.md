@@ -1,4 +1,4 @@
-# Use AI to analyze and categorize your top customers on Sripe
+# Use AI to analyze and categorize your top customers on Stripe
 
 # example image 
 ![example](./example.png)
