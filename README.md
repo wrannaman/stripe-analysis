@@ -10,6 +10,8 @@ OPENAI_API_KEY=sk-...
 STRIPE_KEY=rk_live_...
 ```
 
+### Run the project
+
 ```bash
 # install dependencies
 npm i
